@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class diego{
+public class manu{
 	public static void main(String[] args){
 		String opcion; //Opcion del menú principal
 		String opcionS;//Opci�n de los menus 1er nivel
